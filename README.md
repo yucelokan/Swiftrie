@@ -1,6 +1,8 @@
 
 # Swiftrie
 
+Here an example project for implementation -> [CitieSearch](https://github.com/yucelokan/CitieSearch)
+
 First thing first, what is a [Trie](https://en.wikipedia.org/wiki/Trie).?
 
 > In computer science, a trie, also called digital tree or prefix tree, is a kind of search tree —an ordered tree data structure used to store a dynamic set or associative array where the keys are usually strings. [...] All the descendants of a node have a common prefix of the string associated with that node, and the root is associated with the empty string. Keys tend to be associated with leaves, though some inner nodes may correspond to keys of interest. Hence, keys are not necessarily associated with every node.
